@@ -1,0 +1,16 @@
+[
+{
+  "modid": "RandomPack",
+  "name": "RandomPack",
+  "description": "Selects a random pack! /rpk",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "https://github.com/Kopamed/RandomPack-Mod",
+  "authorList": ["Kopamed"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": ["https://i.imgur.com/RgiqEXA.png"],
+  "dependencies": []
+}
+]
